@@ -1,0 +1,8 @@
+# here we will put things that we dont want to push to github,
+#because we dont want our git to track these files, because they are unnecessary, they take space which is not needed to be pushed on github and to be deployed on vercel.
+
+/node_modules
+
+.env
+
+
